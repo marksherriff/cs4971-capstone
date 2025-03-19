@@ -1,0 +1,13 @@
+- name: Prof. Mark Sherriff
+  office: Rice 400
+  office_hours: "Wednesdays 9:00-10:30 AM & Thursdays 12:30-2:00 PM"
+  email: sherriff@virginia.edu
+  website: http://marksherriff.com
+  github: marksherriff
+
+- name: Prof. Derrick Stone
+  office: Rice 209
+  office_hours: "Mondays 11:00 AM-12:00 PM & Thursdays 3:30-4:30 PM"
+  location: "Rice Hall 209"
+  email: djs6d@virginia.edu
+  website: https://engineering.virginia.edu/faculty/derrick-stone

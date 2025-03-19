@@ -1,0 +1,54 @@
+lecture_sections:
+  - Lecture 001 - Tuesdays and Thursdays @ 9:30-10:45 AM in Rice 130 w/ Prof. Sherriff   
+  - Lecture 002 - Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Rice 130 w/ Prof. Stone   
+  - Labs - Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA)
+
+project_due_date: "04/29"
+
+sprint_1:
+  name: Sprint 1
+  goal: Team Organization
+  duration: 01/26-02/01
+  sprint_check: 02/02
+
+sprint_2:
+  name: Sprint 2
+  goal: Requirements Elicitation
+  duration: 02/02-02/08
+  sprint_check: 02/09
+
+sprint_3:
+  name: Sprint 3
+  goal: Heroku + Google Login
+  duration: 02/09-02/22
+  sprint_check: 02/23
+
+sprint_4:
+  name: Sprint 4
+  goal: Amazon S3 Storage
+  duration: 02/23-03/15
+  sprint_check: 03/16
+
+sprint_5:
+  name: Sprint 5
+  goal: Requirements Change
+  duration: 03/16-03/29
+  sprint_check: 03/30
+
+sprint_6:
+  name: Sprint 6
+  goal: Beta Version
+  duration: 03/30-04/12
+  sprint_check: 04/13
+
+beta_testing:
+  name: Beta Testing
+  goal: Beta Testing
+  duration: 04/13-04/19
+  sprint_check: 04/20
+
+final_version:
+  name: Final Sprint
+  goal: Final Sprint
+  duration: 04/20-04/28
+  spring_check: 04/29
