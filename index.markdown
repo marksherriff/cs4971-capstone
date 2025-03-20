@@ -13,11 +13,11 @@ Capstone Practicum II serves as one of the three options for completing the CS C
 
 __Overview__
 
-From Fall 2013 through Spring 2020, the Computer Science department offered a two-course sequence for completing the CS Capstone and SEAS Senior Thesis requirement - CS 4970: Capstone Practicum I and CS 4971: Capstone Practicum II.  Originally created by Prof. Aaron Bloomfield, the course was an opportunity for students to build projects for non-profits around Charlottesville over the course of a full year.  Overall, the courses were well-liked and students enjoyed building software for real customers.
+From Fall 2013 through Spring 2020, the Computer Science department offered a two-course sequence for completing the CS Capstone and SEAS Senior Thesis requirement - CS 4970: Capstone Practicum I and CS 4971: Capstone Practicum II.  Originally created by Prof. Aaron Bloomfield, the course was an opportunity for students to build projects for non-profits around Charlottesville over the full year.  Overall, the courses were well-liked and students enjoyed building software for real customers.
 
-However, in Spring 2020... well... we all know what happened :-(.  Not only was it really hard to find any non-profits to work with, the current instructor (Prof. Bloomfield had handed the course off to someone else a few years before) left suddenly for another position.  So the department had to figure out something pretty quickly ahead of the Fall 2020 semester that would work during... well... "you know what."  
+However, in Spring 2020... well... we all know what happened :-(.  After that, not only was it impossible to find any non-profits to work with, the current instructor schedule for Fall 2020 (Prof. Bloomfield had handed the course off to someone else a few years before) left suddenly that summer for another position.  So the department had to figure out something in roughly a month ahead of the Fall 2020 semester that would work during... well... "you know what."  
 
-This is how CS 4991: Capstone Technical Report came to be.  We needed both three credits for students (hence, taking a 6th CS elective) and a way to track a technical report.  While this system has been working reasonably well and we have a wonderful person teaching it (Prof. Vrugtman), it's gotten a bit too big.
+This is how CS 4991: Capstone Technical Report came to be.  We needed both three credits for students (hence, taking a 6th CS elective) and a way to track a technical report.  While this system has been working reasonably well and we have a wonderful instructor teaching it (Prof. Vrugtman), it's gotten a bit too big.
 
 __Rebooting the Practicum__
 
@@ -28,7 +28,7 @@ So, for AY 2025-2026, we are rebooting CS 4971 and trying the independent capsto
 - The projects will be up to the student teams.  The main guiding principle is that the team shows that what they are building "fulfills a need."
 - The platform is up to you.  Web, mobile, game... whatever makes sense for your project.  The technology is up to you too!  (The danger in this is NO support will be offered for many platforms / technologies...)
 - Teams will be three to four students.  Students are highly encouraged to enroll for the class as a team as you will be able to choose your teammates.  Solo students can enroll, but you will be placed on a team with other solo students.
-- Project management and deliverables will closely mirror what is done in CS 3240, including requirements elicitation, a requirements document, a design document, sprint reports, etc.
+- Project management and deliverables will closely mirror what is done in CS 3240, including requirements elicitation, a requirements document, a design document, sprint reports, etc.  Basically, picture the CS 3240 project, but with most of the guardrails taken off.
 - Student teams will jointly co-author the SEAS Technical Report, due at the end of the semester.  Papers will follow standard ACM conference formatting and guidelines.
 
 __Logistics__
