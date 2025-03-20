@@ -33,7 +33,7 @@ theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
-logo: "/assets/images/cs3240-logo-200.png"
+logo: "/assets/images/rotunda.png"
 
 # Aux links for the upper right navigation
 aux_links:

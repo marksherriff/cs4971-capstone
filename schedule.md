@@ -2,6 +2,7 @@
 layout: default
 title: Schedule
 nav_order: 3
+nav_exclude: true
 ---
 
 # Course Schedule

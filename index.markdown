@@ -2,24 +2,45 @@
 layout: default
 title: Home
 nav_order: 1
-description: "CS 3240: Software Engineering"
+description: "CS 4971: Capstone Practicum II"
 permalink: /
 ---
 
-# CS 3240 - Spring 2025
-## Software Engineering
-_formerly known as Advanced Software Development Techniques_     
-Our course is structured around understanding the different aspects of the software development lifecycle.  During this course, students will learn to elicit and model software requirements, choose from various design options for a solution, implement a large software system in teams using a modified Scrum methodology, perform quality assurance, and learn about ethical and professional issues, such as diversity issues, how to handle data responsibly, and software licensing.
+# CS 4971 - Fall 2025
+## Capstone Practicum II
 
-_NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education._
+Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in Fall 2025 or Spring 2026.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
 
-[Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
-[Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
-[Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }
-[Canvas]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
-[GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
+__Overview__
 
-## Lecture and Lab Sessions
+From Fall 2013 through Spring 2020, the Computer Science department offered a two-course sequence for completing the CS Capstone and SEAS Senior Thesis requirement - CS 4970: Capstone Practicum I and CS 4971: Capstone Practicum II.  Originally created by Prof. Aaron Bloomfield, the course was an opportunity for students to build projects for non-profits around Charlottesville over the course of a full year.  Overall, the courses were well-liked and students enjoyed building software for real customers.
+
+However, in Spring 2020... well... we all know what happened :-(.  Not only was it really hard to find any non-profits to work with, the current instructor (Prof. Bloomfield had handed the course off to someone else a few years before) left suddenly for another position.  So the department had to figure out something pretty quickly ahead of the Fall 2020 semester that would work during... well... "you know what."  
+
+This is how CS 4991: Capstone Technical Report came to be.  We needed both three credits for students (hence, taking a 6th CS elective) and a way to track a technical report.  While this system has been working reasonably well and we have a wonderful person teaching it (Prof. Vrugtman), it's gotten a bit too big.
+
+__Rebooting the Practicum__
+
+So, for AY 2025-2026, we are rebooting CS 4971 and trying the independent capstone project system again, with a few changes:
+
+- The course will run over one semester, not two as it was before with CS 4970 and CS 4971.
+- The course will not be strictly limited to service learning / building apps for non-profits.  This can be an option, but is not required.
+- The projects will be up to the student teams.  The main guiding principle is that the team shows that what they are building "fulfills a need."
+- The platform is up to you.  Web, mobile, game... whatever makes sense for your project.  The technology is up to you too!  (The danger in this is NO support will be offered for many platforms / technologies...)
+- Teams will be three to four students.  Students are highly encouraged to enroll for the class as a team as you will be able to choose your teammates.  Solo students can enroll, but you will be placed on a team with other solo students.
+- Project management and deliverables will closely mirror what is done in CS 3240, including requirements elicitation, a requirements document, a design document, sprint reports, etc.
+- Student teams will jointly co-author the SEAS Technical Report, due at the end of the semester.  Papers will follow standard ACM conference formatting and guidelines.
+
+__Logistics__
+
+- Will be offered both F25 and S26 with roughly 140 seats each semester.
+- Will ONLY use CS 4971 as the course number (as this is programmed in SIS to satisfy the capstone requirement).
+- Prereqs are 0) must be a BSCS major; 1) will graduate in F25 or S26; 2) C- or better in CS 3240.  CS 4970 will be waived (hence the permission of instructor required to enroll).
+- _Most weeks_ you will only meet once.  Many weeks we will alternate which teams come to which day.
+- Lecture will be 1) project status updates (with presentations to the class) or 2) industry guest speakers.
+- Attendance will be required and taken.
+
+## Lecture Sessions
 {% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
 {% endfor %}   
 ## Staff Information
@@ -33,5 +54,3 @@ Email: [{{ professor.email }}]({{ professor.email }})
 Website: [{{ professor.website }}]({{ professor.website }})     
 
 {% endfor %}
-
-__Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor %}  
