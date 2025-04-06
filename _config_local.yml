@@ -69,6 +69,23 @@ search:
   # Supports true or false (default)
   button: false
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  note:
+    title: note
+    color: purple
+  
+  example:
+    title: example
+    color: yellow
+
+  important:
+    title: IMPORTANT UPDATE
+    color: green
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -11,6 +11,9 @@ permalink: /
 
 Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in Fall 2025 or Spring 2026.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
 
+{: .note }
+__CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in AY '25-'26; 3) C- or better in CS 3240.
+
 __Overview__
 
 From Fall 2013 through Spring 2020, the Computer Science department offered a two-course sequence for completing the CS Capstone and SEAS Senior Thesis requirement - CS 4970: Capstone Practicum I and CS 4971: Capstone Practicum II.  Originally created by Prof. Aaron Bloomfield, the course was an opportunity for students to build projects for non-profits around Charlottesville over the full year.  Overall, the courses were well-liked and students enjoyed building software for real customers.
