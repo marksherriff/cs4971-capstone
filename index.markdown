@@ -12,7 +12,7 @@ permalink: /
 Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in Fall 2025 or Spring 2026.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
 
 {: .note }
-__CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in AY '25-'26; 3) C- or better in CS 3240.
+__CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in AY '25-'26; 3) C- or better in CS 3240.  Indicate your major, graduation semester, and semester you completed CS 3240 in your SIS enrollment permission request.
 
 __Overview__
 
