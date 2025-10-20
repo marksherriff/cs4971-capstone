@@ -12,7 +12,7 @@ permalink: /
 Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in within the next two semesters.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
 
 {: .note }
-__CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in AY '25-'26; 3) C- or better in CS 3240.  Indicate your major, graduation semester, and semester you completed CS 3240 in your SIS enrollment permission request.
+__CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in the next two semesters; 3) C- or better in CS 3240.  Indicate your major, graduation semester, and semester you completed CS 3240 in your SIS enrollment permission request.
 
 __Overview__
 
@@ -33,6 +33,14 @@ So, for AY 2025-2026, we are rebooting CS 4971 and trying the independent capsto
 - Teams will be three to four students.  Students are highly encouraged to enroll for the class as a team as you will be able to choose your teammates.  Solo students can enroll, but you will be placed on a team with other solo students.
 - Project management and deliverables will closely mirror what is done in CS 3240, including requirements elicitation, a requirements document, a design document, sprint reports, etc.  Basically, picture the CS 3240 project, but with most of the guardrails taken off.
 - Student teams will jointly co-author the SEAS Technical Report, due at the end of the semester.  Papers will follow standard ACM conference formatting and guidelines.
+
+__How does this course work with STS 4500/4600?__
+
+There are two major papers you will write as a team in CS 4971: the Project Proposal & Plan and the Technical Report.  
+
+The Project Proposal document will contain a lot of the same information that is in the STS Prospectus paper that is due at the end of STS 4500.  If you take CS 4971 at the same time as STS 4500, then you can submit large portions of the Project Proposal document as a part of your Prospectus.  If you take CS 4971 after you have completed STS 4500, you can reuse much of the information from your Prospectus for your Project Proposal (if you decide to build that project).  In both scenarios, the Project Proposal for CS 4971 and the Prospectus for STS 4500 can be related or completely different from each other.  Further, you can build a different project in CS 4971 than what you propose in STS 4500/4600.  
+
+The Technical Report you write as a team at the end of CS 4971 can be submitted directly as your Technical Report for STS 4600 as a part of your Senior Thesis Portfolio.
 
 __Logistics__
 
