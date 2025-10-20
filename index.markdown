@@ -29,6 +29,7 @@ So, for AY 2025-2026, we are rebooting CS 4971 and trying the independent capsto
 - The course will run over one semester, not two as it was before with CS 4970 and CS 4971.
 - The course will not be strictly limited to service learning / building apps for non-profits.  This can be an option, but is not required.
 - The projects will be up to the student teams.  The main guiding principle is that the team shows that what they are building "fulfills a need."
+- Example projects from Fall 2026: augmented reality tour of the Lawn, AI-guided web browser, ride sharing app for students, minigames to teach people about basic cybersecurity, guided tours of Grounds for incoming first years.
 - The platform is up to you.  Web, mobile, game... whatever makes sense for your project.  The technology is up to you too!  (The danger in this is NO support will be offered for many platforms / technologies...)
 - Teams will be three to four students.  Students are highly encouraged to enroll for the class as a team as you will be able to choose your teammates.  Solo students can enroll, but you will be placed on a team with other solo students.
 - Project management and deliverables will closely mirror what is done in CS 3240, including requirements elicitation, a requirements document, a design document, sprint reports, etc.  Basically, picture the CS 3240 project, but with most of the guardrails taken off.
