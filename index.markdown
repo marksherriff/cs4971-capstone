@@ -6,10 +6,10 @@ description: "CS 4971: Capstone Practicum II"
 permalink: /
 ---
 
-# CS 4971 - Fall 2025
+# CS 4971 - AY '25-'26
 ## Capstone Practicum II
 
-Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in Fall 2025 or Spring 2026.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
+Capstone Practicum II serves as one of the three options for completing the CS Capstone and SEAS Senior Thesis requirement for students graduating in within the next two semesters.  For more information about the capstone, please go to [https://uvacsadvising.org/bscs.html#capstone-information](https://uvacsadvising.org/bscs.html#capstone-information).
 
 {: .note }
 __CS 4970 will NOT be a prerequisite for this class in Fall or Spring. It will be waived.__  Prerequisites are: 1) BSCS Major; 2) Graduating in AY '25-'26; 3) C- or better in CS 3240.  Indicate your major, graduation semester, and semester you completed CS 3240 in your SIS enrollment permission request.
@@ -38,21 +38,17 @@ __Logistics__
 
 - Will be offered both F25 and S26 with roughly 140 seats each semester.
 - Will ONLY use CS 4971 as the course number (as this is programmed in SIS to satisfy the capstone requirement).
-- Prereqs are 0) must be a BSCS major; 1) will graduate in F25 or S26; 2) C- or better in CS 3240.  CS 4970 will be waived (hence the permission of instructor required to enroll).
+- Prereqs are 0) must be a BSCS major; 1) will graduate within the next two semesters; 2) C- or better in CS 3240.  CS 4970 will be waived (hence the permission of instructor required to enroll).
 - _Most weeks_ you will only meet once.  Many weeks we will alternate which teams come to which day.
 - Lecture will be 1) project status updates (with presentations to the class) or 2) industry guest speakers.
 - Attendance will be required and taken.
 
-## Lecture Sessions
-{% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
-{% endfor %}   
 ## Staff Information
 
 {% for professor in site.data.professors %}
 
 __Instructor:__ {{ professor.name }}   
-Office: {{ professor.office }}   
-Office Hours: {{ professor.office_hours }}        
+Office: {{ professor.office }}      
 Email: [{{ professor.email }}]({{ professor.email }})   
 Website: [{{ professor.website }}]({{ professor.website }})     
 
